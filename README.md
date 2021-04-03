@@ -8,7 +8,7 @@ The purpose of this analysis is to analyze the precision, sensitivity and other 
 <br />
 <br />
 <br />
-- **SMOTE Oversampling**<br />
+- **SMOTE Oversampling**
 ![alt text](https://github.com/tixie0124/Credit_Risk_Analysis/blob/main/resources/SMOTE_oversampling.PNG)
 <br />
 <br />
