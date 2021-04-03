@@ -5,9 +5,9 @@ The purpose of this analysis is to analyze the precision, sensitivity and other 
 ## Results
 - **Naive Oversampling**<br />
 ![alt text](https://github.com/tixie0124/Credit_Risk_Analysis/blob/main/resources/naive_oversampling.PNG)<br />
-
-
-
+<br />
+<br />
+<br />
 
 
 
