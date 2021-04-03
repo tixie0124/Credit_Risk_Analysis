@@ -8,25 +8,30 @@ The purpose of this analysis is to analyze the precision, sensitivity and other 
 <br />
 <br />
 <br />
+
 - **SMOTE Oversampling**
 ![alt text](https://github.com/tixie0124/Credit_Risk_Analysis/blob/main/resources/SMOTE_oversampling.PNG)
 <br />
 <br />
 <br />
+
 - **Under Sampling**<br />
 ![alt text](https://github.com/tixie0124/Credit_Risk_Analysis/blob/main/resources/under_sampling.PNG)
 <br />
 <br />
 <br />
+
 - **Combination(Oversampling and Undersampling)**<br />
 ![alt text](https://github.com/tixie0124/Credit_Risk_Analysis/blob/main/resources/combination.PNG)
 <br />
 <br />
 <br />
+
 - **Balanced Random Forest Classifier**<br />
 ![alt text](https://github.com/tixie0124/Credit_Risk_Analysis/blob/main/resources/balanced_random_forest_classifier.PNG)
 <br />
 <br />
 <br />
+
 - **Adaptive Boosting**<br />
 ![alt text](https://github.com/tixie0124/Credit_Risk_Analysis/blob/main/resources/adaboost_classifier.PNG)
